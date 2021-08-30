@@ -82,7 +82,7 @@
     },
     "INDEX_LINK": {
       "description": "Enter your index link:",
-      "required": false
+      "required": true
     },
     "GLEECH_COMMAND": {
       "description": "Enter your custom gleech command like /gleech1@urgroupname and so on. Default is /gleech",
